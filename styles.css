@@ -23,13 +23,15 @@ p {
     font-size: 1rem;
     color: #333;
     text-align: left;
+    letter-spacing: 2px;
 }
 
 a  {
     font-size: 1rem;
     color: #333;
-    text-align: left;
-    text-u
+    text-align: left;        
+    letter-spacing: 2px;
+
 } 
 
 @media (max-width: 600px) {
